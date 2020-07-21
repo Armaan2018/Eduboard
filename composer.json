@@ -1,0 +1,12 @@
+{
+    "name": "user/eduboard",
+    "description": "This is a learning purpose for result calculation",
+    "type": "library",
+    "license": "MIT",
+    "autoload" :{
+    	"psr-4" :{
+    		"Edu\\borad\\" : "app\\"
+    	}
+    },
+    "require": {}
+}
